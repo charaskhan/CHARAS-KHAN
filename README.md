@@ -74,15 +74,6 @@ A dynamic project to manage orders and products for a coffee shop application.
 
 ---
 
-## 💼 **Technical Skills**  
-- **Languages:** Java, Python, PHP, C#, JavaScript, TypeScript  
-- **Web Development:** HTML, CSS, ASP.NET  
-- **Database Systems:** MySQL, SQLite  
-- **Tools & Platforms:** Git, Visual Studio, Node.js  
-- **Specialization:** IoT Integration, Full-Stack Development, System Automation  
-
----
-
 ## **Full Project Portfolio**
 | Project Name | Technologies | GitHub Link |
 |-------------|-------------|-------------|
@@ -107,4 +98,11 @@ A dynamic project to manage orders and products for a coffee shop application.
 | BSE203078.BSE203023-SCD-Project | Java | [Link](https://github.com/charaskhan/BSE203078.BSE203023-SCD-Project) |
 | Assignments3 | Java | [Link](https://github.com/charaskhan/assignments3) |
 
+---
 
+## 💼 **Technical Skills**  
+- **Languages:** Java, Python, PHP, C#, JavaScript, TypeScript  
+- **Web Development:** HTML, CSS, ASP.NET  
+- **Database Systems:** MySQL, SQLite  
+- **Tools & Platforms:** Git, Visual Studio, Node.js  
+- **Specialization:** IoT Integration, Full-Stack Development, System Automation 
