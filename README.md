@@ -1,19 +1,5 @@
- 
-
----
-
-# **Charas Khan | Software Engineer 🚀**  
-Passionate software engineer with a strong background in software development, system automation, and innovative project designs. Experienced in creating efficient, scalable solutions for real-world challenges using various programming languages and frameworks.  
-
-
-## **Professional Summary**
-I am a passionate and skilled software engineer with experience in designing and developing innovative solutions across various domains. My expertise spans web development, mobile applications, and enterprise-level systems. I strive to create efficient, scalable, and user-friendly applications using modern technologies. This portfolio showcases my best projects, demonstrating my technical abilities and problem-solving skills.
-
-
-
 # **Charas Khan | Software Engineer 💻**  
-A passionate and results-driven software engineer with extensive experience in developing software solutions across various industries. Proficient in full-stack development, project design, and IoT-based systems. I strive to create scalable, efficient, and user-centric applications.  
-
+I am a passionate and skilled software engineer with experience in designing and developing innovative solutions across various domains. My expertise spans web development, mobile applications, and enterprise-level systems. I strive to create efficient, scalable, and user-friendly applications using modern technologies. This portfolio showcases my best projects, demonstrating my technical abilities and problem-solving skills.
 ---
 
 ## 🔑 **Highlighted Projects**  
