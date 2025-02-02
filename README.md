@@ -84,7 +84,97 @@ I am a passionate and skilled software engineer with experience in designing and
 **Description:** An inventory and sales tracking system for furniture businesses, including stock updates and order processing.
 **Technologies Used:** JavaScript
 🔗 GitHub: [Furniture Management System](https://github.com/charaskhan/Furniture-Management-System)
+Here’s a professional and well-organized GitHub Profile Summary that highlights all your key projects. This can also serve as a `README.md` file for your GitHub profile:  
 
+---
+
+# **Charas Khan | Software Engineer 💻**  
+A passionate and results-driven software engineer with extensive experience in developing software solutions across various industries. Proficient in full-stack development, project design, and IoT-based systems. I strive to create scalable, efficient, and user-centric applications.  
+
+---
+
+## 🔑 **Highlighted Projects**  
+
+### **1. Restaurant Management System 🍴**  
+**Technologies:** Java, MySQL  
+A comprehensive solution to manage restaurant operations, including order tracking, inventory management, and customer engagement.  
+🔗 [View Project](https://github.com/charaskhan/Restaurant-Management-System)  
+
+---
+
+### **2. FoodZone (E-Commerce Platform)**  
+**Technologies:** CSS, PHP  
+An interactive platform for browsing and purchasing food products online with secure payment gateways.  
+🔗 [View Project](https://github.com/charaskhan/FoodZone)  
+
+---
+
+### **3. Furniture Management System 🪑**  
+**Technologies:** PHP, MySQL  
+A web-based solution for managing inventory, orders, and product catalogs for furniture businesses.  
+🔗 [View Project](https://github.com/charaskhan/Furniture-Management-System)  
+
+---
+
+### **4. Clinic Management System 🏥**  
+**Technologies:** PHP, MySQL  
+An automated system for managing patient appointments, billing, and clinical data records.  
+🔗 [View Project](https://github.com/charaskhan/Clinic-Management-System)  
+
+---
+
+### **5. IoT-Based Food Waste Management System ♻️**  
+**Technologies:** PHP, IoT Integration  
+A smart platform to track and reduce food waste using IoT sensors integrated with a cloud-based application.  
+🔗 [View Project](https://github.com/charaskhan/Food-waste-management-system-main)  
+
+---
+
+### **6. C-K Password Generator 🔐**  
+**Technologies:** Java  
+A secure and customizable password generator for generating strong passwords to protect sensitive data.  
+🔗 [View Project](https://github.com/charaskhan/C-K-Password-Generator)  
+
+---
+
+### **7. eShop On Web 🛒**  
+**Technologies:** C#, ASP.NET  
+A full-featured e-commerce platform supporting user authentication, secure transactions, and a rich product catalog.  
+🔗 [View Project](https://github.com/charaskhan/eShopOnWeb-main)  
+
+---
+
+### **8. Online Survey System 📋**  
+**Technologies:** C#, MySQL  
+A web-based platform for creating and managing surveys for data collection and insights analysis.  
+🔗 [View Project](https://github.com/charaskhan/Online-Survey-System)  
+
+---
+
+### **9. C-A Epoka Canteen Automation 🍽️**  
+**Technologies:** HTML, JavaScript  
+A dynamic system to streamline and automate canteen services, from orders to inventory tracking.  
+🔗 [View Project](https://github.com/charaskhan/C-A-Epoka-Canteen-Automation)  
+
+---
+
+### **10. Cappuccino-C-A ☕**  
+**Technologies:** JavaScript, Node.js  
+A dynamic project to manage orders and products for a coffee shop application.  
+🔗 [View Project](https://github.com/charaskhan/Cappuccino-C-A)  
+
+---
+
+## 💼 **Technical Skills**  
+- **Languages:** Java, Python, PHP, C#, JavaScript, TypeScript  
+- **Web Development:** HTML, CSS, ASP.NET  
+- **Database Systems:** MySQL, SQLite  
+- **Tools & Platforms:** Git, Visual Studio, Node.js  
+- **Specialization:** IoT Integration, Full-Stack Development, System Automation  
+
+---
+
+Would you like this as a downloadable GitHub README or need any more edits? 😊
 ---
 
 ## **Full Project Portfolio**
