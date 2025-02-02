@@ -1,92 +1,15 @@
-Here's a polished and professional **GitHub Profile Summary** tailored for your work:  
+ 
 
 ---
 
 # **Charas Khan | Software Engineer 🚀**  
 Passionate software engineer with a strong background in software development, system automation, and innovative project designs. Experienced in creating efficient, scalable solutions for real-world challenges using various programming languages and frameworks.  
 
-## **🔑 Key Projects on GitHub**  
-
-### **1. Restaurant Management System**  
-**Technologies:** Java, MySQL  
-A comprehensive system to manage restaurant orders, inventory, and staff operations efficiently.  
-
-🔗 [View Project](https://github.com/charaskhan/Restaurant-Management-System)  
-
-### **2. FoodZone (E-Commerce Platform)**  
-**Technologies:** CSS, PHP  
-A user-friendly online platform for browsing and purchasing food products.  
-
-🔗 [View Project](https://github.com/charaskhan/FoodZone)  
-
-### **3. Clinic Management System**  
-**Technologies:** PHP, MySQL  
-A dynamic system designed to streamline patient appointments, billing, and record-keeping for clinics.  
-
-🔗 [View Project](https://github.com/charaskhan/Clinic-Management-System)  
-
-### **4. C-K Password Generator**  
-**Technologies:** Java  
-A secure password generator with customizable options for enhanced online security.  
-
-🔗 [View Project](https://github.com/charaskhan/C-K-Password-Generator)  
-
-### **5. E-Shop on Web (E-Commerce System)**  
-**Technologies:** C#, ASP.NET  
-A robust e-commerce platform supporting secure transactions and product management.  
-
-🔗 [View Project](https://github.com/charaskhan/eShopOnWeb-main)  
-
-### **6. IoT-Based Food Waste Management System**  
-**Technologies:** PHP, IoT Integration  
-An innovative system for tracking and reducing food waste using IoT sensors and web technologies.  
-
-🔗 [View Project](https://github.com/charaskhan/Food-waste-management-system-main)  
-
----
-
-## **💼 Technical Skills**  
-- **Programming Languages:** Java, Python, PHP, C#, JavaScript  
-- **Web Technologies:** HTML, CSS, ASP.NET, PHP  
-- **Database Management:** MySQL, SQLite  
-- **Development Tools:** Git, Visual Studio  
-- **Specialization:** IoT Solutions, Full-Stack Development, System Automation  
-
----**GitHub Portfolio Summary**
 
 ## **Professional Summary**
 I am a passionate and skilled software engineer with experience in designing and developing innovative solutions across various domains. My expertise spans web development, mobile applications, and enterprise-level systems. I strive to create efficient, scalable, and user-friendly applications using modern technologies. This portfolio showcases my best projects, demonstrating my technical abilities and problem-solving skills.
 
----
 
-## **Highlighted Projects**
-### **1. FoodZone**
-**Description:** A web-based food ordering and management system, allowing users to browse menus, place orders, and manage restaurant operations.
-**Technologies Used:** CSS, JavaScript
-🔗 GitHub: [FoodZone](https://github.com/charaskhan/FoodZone)
-
-### **2. Restaurant Management System**
-**Description:** A comprehensive system for restaurant owners to manage reservations, menu items, and customer orders efficiently.
-**Technologies Used:** Java
-🔗 GitHub: [Restaurant Management System](https://github.com/charaskhan/Restaurant-Management-System)
-
-### **3. eShopOnWeb**
-**Description:** An online e-commerce platform with features like product listings, user authentication, and order management.
-**Technologies Used:** C#
-🔗 GitHub: [eShopOnWeb](https://github.com/charaskhan/eShopOnWeb-main)
-
-### **4. Clinic Management System**
-**Description:** A system designed to help clinics manage appointments, patient records, and doctor availability.
-**Technologies Used:** PHP
-🔗 GitHub: [Clinic Management System](https://github.com/charaskhan/Clinic-Management-System)
-
-### **5. Furniture Management System**
-**Description:** An inventory and sales tracking system for furniture businesses, including stock updates and order processing.
-**Technologies Used:** JavaScript
-🔗 GitHub: [Furniture Management System](https://github.com/charaskhan/Furniture-Management-System)
-Here’s a professional and well-organized GitHub Profile Summary that highlights all your key projects. This can also serve as a `README.md` file for your GitHub profile:  
-
----
 
 # **Charas Khan | Software Engineer 💻**  
 A passionate and results-driven software engineer with extensive experience in developing software solutions across various industries. Proficient in full-stack development, project design, and IoT-based systems. I strive to create scalable, efficient, and user-centric applications.  
