@@ -83,9 +83,6 @@ A dynamic project to manage orders and products for a coffee shop application.
 
 ---
 
-
----
-
 ## **Full Project Portfolio**
 | Project Name | Technologies | GitHub Link |
 |-------------|-------------|-------------|
