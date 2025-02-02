@@ -101,7 +101,7 @@ A dynamic project to manage orders and products for a coffee shop application.
 | KHAN-PROJECT-2 | TypeScript | [Link](https://github.com/charaskhan/KHAN-PROJECT-2) |
 | C-A-Epoka-Unified-System | HTML | [Link](https://github.com/charaskhan/C-A-Epoka-Unified-System) |
 | C-K-Password-Generator | Java | [Link](https://github.com/charaskhan/C-K-Password-Generator) |
-| -C-A-RMS | | [Link](https://github.com/charaskhan/-C-A-RMS) |
+| -C-A-RMS |JavaScrip | [Link](https://github.com/charaskhan/-C-A-RMS) |
 | OOP-ASSIGNMENT-3 |C++ | [Link](https://github.com/charaskhan/OOP-ASSIGNMENT-3) |
 | Assignment-4 |C++ | [Link](https://github.com/charaskhan/Assignment-4) |
 | BSE203078.BSE203023-SCD-Project | Java | [Link](https://github.com/charaskhan/BSE203078.BSE203023-SCD-Project) |
