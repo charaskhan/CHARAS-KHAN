@@ -95,7 +95,7 @@ A dynamic project to manage orders and products for a coffee shop application.
 | Food Safety Management System | PHP | [Link](https://github.com/charaskhan/Food-Safety-Management-System-main) |
 | Epoka Canteen Automation | HTML | [Link](https://github.com/charaskhan/C-A-Epoka-Canteen-Automation) |
 | Password Generator | Java | [Link](https://github.com/charaskhan/C-K-Password-Generator) |
-| Food Waste Management System | PHP | [) |
+| Food Waste Management System | PHP | [Link] (https://github.com/charaskhan/Food-waste-management-system-main) |
 | Cappuccino C-A | JavaScript | [Link](https://github.com/charaskhan/Cappuccino-C-A) |
 | KHAN-PROJECT-1 | Java | [Link](https://github.com/charaskhan/KHAN-PROJECT-1) |
 | KHAN-PROJECT-2 | TypeScript | [Link](https://github.com/charaskhan/KHAN-PROJECT-2) |
