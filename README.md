@@ -105,6 +105,6 @@ A dynamic project to manage orders and products for a coffee shop application.
 | OOP-ASSIGNMENT-3 | | [Link](https://github.com/charaskhan/OOP-ASSIGNMENT-3) |
 | Assignment-4 | | [Link](https://github.com/charaskhan/Assignment-4) |
 | BSE203078.BSE203023-SCD-Project | Java | [Link](https://github.com/charaskhan/BSE203078.BSE203023-SCD-Project) |
-| Assignments3 | | [Link](https://github.com/charaskhan/assignments3) |
+| Assignments3 | Java | [Link](https://github.com/charaskhan/assignments3) |
 
 
