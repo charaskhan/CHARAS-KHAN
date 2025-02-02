@@ -83,7 +83,7 @@ A dynamic project to manage orders and products for a coffee shop application.
 
 ---
 
-Would you like this as a downloadable GitHub README or need any more edits? 😊
+
 ---
 
 ## **Full Project Portfolio**
