@@ -107,8 +107,4 @@ A dynamic project to manage orders and products for a coffee shop application.
 | BSE203078.BSE203023-SCD-Project | Java | [Link](https://github.com/charaskhan/BSE203078.BSE203023-SCD-Project) |
 | Assignments3 | | [Link](https://github.com/charaskhan/assignments3) |
 
-This portfolio highlights my best work and provides direct access to my GitHub projects, demonstrating my technical skills and ability to build real-world applications. Feel free to explore my repositories for more details.
 
-
-
-Would you like me to generate this content as a README file for your GitHub profile? 😊
